@@ -1,5 +1,4 @@
-Ceremonias que se realizan a lo largo del proyecto: 
-
+## Ceremonias que se realizan a lo largo del proyecto:
 ● Sprint Planning Meeting
 
 ● Daily Scrum Meeting
@@ -8,8 +7,8 @@ Ceremonias que se realizan a lo largo del proyecto:
 
 ● Sprint Retrospective Meeting
 
-Los Artefactos en Scrum
-(Scrum Artifacts)
+## Los Artefactos en Scrum (Scrum Artifacts)
+     
 
 ● Pila del Producto (Product Backlog)
 
@@ -18,7 +17,7 @@ Los Artefactos en Scrum
 ● Incremento (Increment)
 
 
-ROLES
+## ROLES
 
 ● PRODUCT OWNER
 

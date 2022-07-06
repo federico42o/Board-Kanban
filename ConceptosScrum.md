@@ -24,3 +24,7 @@
 ● SCRUM MASTER
 
 ● DEVELOPMENT TEAM
+
+##### DEFINICION SCRUM 
+**Scrum de scrums es una técnica de la metodología ágil ampliada que ofrece una forma de conectar varios equipos que necesitan trabajar juntos para ofrecer soluciones complejas.**
+

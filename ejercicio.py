@@ -9,10 +9,10 @@
 
 
 
-dueno = [28957346,'Juan', 4789689, 'Belgrano 101' ]
-dni = dueno[0]
+Dueno = [28957346,'Juan', 4789689, 'Belgrano 101' ]
+dni = Dueno[0]
 
 if dni > 26000000:
-    print(f'Telefono del dueño: {dueno[2]}')
+    print(f'Telefono del dueño: {Dueno[2]}')
 
 

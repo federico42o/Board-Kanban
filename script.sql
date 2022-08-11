@@ -20,7 +20,7 @@ CREATE TABLE Perro (
 -- ---------------------------------------------------------------------------------------
 CREATE TABLE Historial (
     id_historial INT PRIMARY KEY,
-    Fecha_Nac DATE,
+    Fecha DATE,
     perro INT,
     descripcion VARCHAR(50) NOT NULL,
     monto FLOAT, 
